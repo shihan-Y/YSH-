@@ -1,5 +1,6 @@
- Welcome to shihan-Y's blog！
- 互联网治理与分析-学习如何使用github创建个人网站成果展示
+Welcome to shihan-Y's blog！
+
+互联网治理与分析-学习如何使用github创建个人网站成果展示
 # 个人介绍
 ## SCU公共管理学院信息资源管理专业2018级学生
 [请关注我(′▽`〃) ](https://weibo.com/)  
